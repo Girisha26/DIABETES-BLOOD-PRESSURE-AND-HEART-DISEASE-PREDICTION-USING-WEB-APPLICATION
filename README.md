@@ -1,7 +1,10 @@
 📌DIABETES, BLOOD PRESSURE, AND HEART DISEASE PREDICTION AND DIAGNOSIS USING WEB APPLICATION📌
+                     ![monkey-medicine](https://github.com/Girisha26/DIABETES-BLOOD-PRESSURE-AND-HEART-DISEASE-PREDICTION-USING-WEB-APPLICATION/assets/110905339/2ac0d0b0-529b-4439-8d18-74b905d3fc2d)
 
 ABSTRACT 
-  ![monkey-medicine](https://github.com/Girisha26/DIABETES-BLOOD-PRESSURE-AND-HEART-DISEASE-PREDICTION-USING-WEB-APPLICATION/assets/110905339/2ac0d0b0-529b-4439-8d18-74b905d3fc2d)
+       
+
+  
   Diabetes, high blood pressure, and heart disease using Machine learning has helped in predicting and diagnosing
 the diseases, and this project aims to leverage this technology to develop a web application that predicts the risk of
 diabetes,high blood pressure, and high cholesterol. The application will provide users with an intuitive interface to
@@ -21,5 +24,5 @@ with a clear and easy-to-understand prediction of their disease risk and will al
 lifestyle changes that may help reduce their risk. The application will be tested on a sample populations to validate
 its accuracy and effectiveness in predicting
 
-https://tenor.com/view/doctor-joypixels-health-worker-medical-practitioner-physician-gif-17334518
+
 
